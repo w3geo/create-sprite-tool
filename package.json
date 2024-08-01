@@ -10,7 +10,10 @@
     "url": "git+https://github.com/w3geo/create-sprite-tool.git"
   },
   "keywords": [
-    "template"
+    "template",
+    "mapbox",
+    "mapblibre",
+    "sprite"
   ],
   "license": "MIT",
   "bugs": {

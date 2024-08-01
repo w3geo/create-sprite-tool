@@ -32,4 +32,4 @@ To create a spritesheet from everything in the `icons/` and `icons@2x/` folders,
 
     $ npm run sprite
 
-This will put the final spritesheet files (`sprite.json`, `sprite.png`, `sprite@2x.json`, `sprite@2x.png`) in the `sprite` folder.
+This will put the final spritesheet files (`sprite.json`, `sprite.png`, `sprite@2x.json`, `sprite@2x.png`) in the `sprite/` folder.
