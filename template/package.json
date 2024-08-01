@@ -2,8 +2,7 @@
   "name": "sprite-tool",
   "version": "1.0.0",
   "script": {
-    "_explode": "mbsprite explode $1 icons",
-    "import": "npm run _explode",
+    "import": "node import",
     "svg": "sharp-cli --density 90 -i svg/* -o icons/ -f png && npx sharp-cli --density 180 -i img/* -o icons@2x/ -f png",
     "sprite": "mbsprite bundle sprite icons icons@2x"
   },

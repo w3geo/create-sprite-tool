@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/w3geo/create-sprite-tool/issues"
   },
-  "homepage": "https://github.com/w3geo/create-sprite-tool#readme",
-  "dependencies": {
-    "cross-spawn": "^7.0.3"
-  }
+  "homepage": "https://github.com/w3geo/create-sprite-tool#readme"
 }
