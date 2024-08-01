@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 
 // The first argument will be the project name.
-const projectName = process.argv[2];
+const projectName = process.argv[2] || '.';
 
 // Create a project directory with the project name.
 const currentDir = process.cwd();

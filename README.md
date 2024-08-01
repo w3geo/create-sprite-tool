@@ -6,6 +6,8 @@ This template creates a project for managing Mapbox spritesheets
 
 This will create a `sprites` folder in the current working directory, with a set of tools for working with Mapbox spritesheets.
 
+If the folger argument (`sprites` in the example above) is omitted, the project will be created in the current directory.
+
     $ cd sprites
 
 Once you're in the sprites directory, you can do the following:
@@ -40,4 +42,4 @@ To create a spritesheet from everything in the `icons/` and `icons@2x/` folders,
 
     $ npm run sprite
 
-This will put the final spritesheet files (`sprite.json`, `sprite.png`, `sprite@2x.json`, `sprite@2x.png`) in the `sprite` folder.
+This will put the final spritesheet files (`sprite.json`, `sprite.png`, `sprite@2x.json`, `sprite@2x.png`) in the `sprite/` folder.
