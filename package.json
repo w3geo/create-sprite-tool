@@ -1,23 +1,22 @@
 {
-  "name": "create-my-template",
+  "name": "create-sprite-tool",
   "version": "1.0.0",
   "description": "Example starter template tool",
   "bin": {
-    "create-my-template": "./index.js"
+    "create-sprite-tool": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/petermekhaeil/create-my-template.git"
+    "url": "git+https://github.com/w3geo/create-sprite-tool.git"
   },
   "keywords": [
     "template"
   ],
-  "author": "Peter Mekhaeil <4616064+petermekhaeil@users.noreply.github.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/petermekhaeil/create-my-template/issues"
+    "url": "https://github.com/w3geo/create-sprite-tool/issues"
   },
-  "homepage": "https://github.com/petermekhaeil/create-my-template#readme",
+  "homepage": "https://github.com/w3geo/create-sprite-tool#readme",
   "dependencies": {
     "cross-spawn": "^7.0.3"
   }
