@@ -1,6 +1,6 @@
 {
   "name": "create-sprite-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example starter template tool",
   "bin": {
     "create-sprite-tool": "./index.js"
